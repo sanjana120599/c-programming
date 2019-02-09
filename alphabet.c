@@ -4,7 +4,7 @@ int main()
 char ch;
 scanf("%c",&ch);
 if(ch>='a'&&ch<='z'||ch>='A'&&ch<='z')
-printf("alphabet");
+printf("Alphabet");
 else
 printf("no");
 return 0;
